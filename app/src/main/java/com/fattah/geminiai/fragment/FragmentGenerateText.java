@@ -94,7 +94,7 @@ public class FragmentGenerateText extends Fragment {
 
     public void getResultGeminiAPI(String inputText) {
         GenerativeModel generativeModel = new GenerativeModel("gemini-pro",
-                "AIzaSyCywE_XL0bYYriUd-8qXSHTKEPnSUymYaY");
+                "ISI_API_KEY");
 
         GenerativeModelFutures modelFutures = GenerativeModelFutures.from(generativeModel);
         Content content = new Content.Builder()
