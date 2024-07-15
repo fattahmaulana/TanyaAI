@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.fattah.geminiai.app-debug-35:/layout_fragment_generate_text.xml.flat",
+        "source": "com.fattah.geminiai.app-main-37:/layout/fragment_generate_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_tab_indicator.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_bg_rounded_rect.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\bg_rounded_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\layout_fragment_generate_text.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\layout\\fragment_generate_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\raw_ic_loading.json.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\raw\\ic_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-mdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-mdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_atas.png.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\atas.png"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-mdpi_logo.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-mdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\layout_toolbar_main.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\layout\\toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-mdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxhdpi_logo.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxxhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xhdpi_logo.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xhdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xhdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-hdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-hdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\layout_fragment_image_recognition.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\layout\\fragment_image_recognition.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_border_box.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\border_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\layout_layout_progress_dialog.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-hdpi_logo.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-hdpi\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_loading.gif.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxxhdpi\\logo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-hdpi\\logo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_logo_background.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-debug-35:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\MyBook Hype AMD\\.gradle\\daemon\\8.6\\com.fattah.geminiai.app-main-37:\\xml\\file_paths.xml"
+    }
+]
