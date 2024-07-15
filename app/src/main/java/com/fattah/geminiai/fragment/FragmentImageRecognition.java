@@ -162,7 +162,7 @@ public class  FragmentImageRecognition extends Fragment {
     }
 
     private static class BuildConfig {
-        static String apiKey = "AIzaSyCywE_XL0bYYriUd-8qXSHTKEPnSUymYaY";
+        static String apiKey = "ISI_API_GEMINI";
     }
 
     private static class GeminiPro {
